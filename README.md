@@ -1,4 +1,4 @@
-# apiDoc
+# apiDoc Binay
 
 Generates a RESTful web API Documentation.
 
